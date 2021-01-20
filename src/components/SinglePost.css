@@ -1,0 +1,14 @@
+h2,
+h4,
+p {
+  padding-left: 40px;
+}
+.mainImage {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+img {
+  justify-self: center;
+  width: 100%;
+}
